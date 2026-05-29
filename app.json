@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "parkscan-mobile",
+    "slug": "parkscan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1e293b",
+        "foregroundImage": "./assets/adaptive-icon.png"
+      },
+      "package": "com.liftandeat_tn.parkscan"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "androidNavigationBar": {
+      "visible": "sticky-immersive"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c4fa1647-e8a5-4e88-be66-0d3786469c09"
+      }
+    },
+    "owner": "liftandeat_tn"
+  }
+}
