@@ -77,5 +77,5 @@ src/
 
 ---
 
-**Développé par [Votre Nom/Équipe]**  
+**Développé par Jouini Hamdi**  
 *Propulsé pour la Direction Centrale*
